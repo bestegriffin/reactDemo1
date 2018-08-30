@@ -1,12 +1,10 @@
 import React, { Component } from 'react'
 
-import List from './list/list'
-
 class App extends Component {
     render() {
         return (
             <div className="App">
-                <List />
+                <h1>HI SCRUB</h1>
             </div>
         )
     }
